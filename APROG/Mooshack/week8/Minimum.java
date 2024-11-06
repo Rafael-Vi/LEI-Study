@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 import java.util.Scanner;
-
 public class Minimum {
     public static int numberCount = 0;
     public static final int PREDIFINED_SIZE = 10;
@@ -41,9 +39,4 @@ public class Minimum {
         }
     }
 }
-=======
-package PACKAGE_NAME;
 
-public class Minimum {
-}
->>>>>>> origin/APROG
