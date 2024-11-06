@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Minimum {
@@ -40,3 +41,9 @@ public class Minimum {
         }
     }
 }
+=======
+package PACKAGE_NAME;
+
+public class Minimum {
+}
+>>>>>>> origin/APROG

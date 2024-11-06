@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week5/AS/AS.iml" filepath="$PROJECT_DIR$/week5/AS/AS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/C/C.iml" filepath="$PROJECT_DIR$/week5/C/C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/M3/M3.iml" filepath="$PROJECT_DIR$/week5/M3/M3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/MMC/MMC.iml" filepath="$PROJECT_DIR$/week4/MMC/MMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/Math_operations/Math_operations.iml" filepath="$PROJECT_DIR$/week4/Math_operations/Math_operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mooshack.iml" filepath="$PROJECT_DIR$/.idea/Mooshack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/NP/NP.iml" filepath="$PROJECT_DIR$/week5/NP/NP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/PDDPN/PDDPN.iml" filepath="$PROJECT_DIR$/week5/PDDPN/PDDPN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/PEDGOD/PEDGOD.iml" filepath="$PROJECT_DIR$/week5/PEDGOD/PEDGOD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/PNBL/PNBL.iml" filepath="$PROJECT_DIR$/week5/PNBL/PNBL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/Pizza/Pizza.iml" filepath="$PROJECT_DIR$/week5/Pizza/Pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/RD/RD.iml" filepath="$PROJECT_DIR$/week5/RD/RD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/SF/SF.iml" filepath="$PROJECT_DIR$/week5/SF/SF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/checkIntDiv/checkIntDiv.iml" filepath="$PROJECT_DIR$/week4/checkIntDiv/checkIntDiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/checkPrime/checkPrime.iml" filepath="$PROJECT_DIR$/week4/checkPrime/checkPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/convertToDec/convertToDec.iml" filepath="$PROJECT_DIR$/week4/convertToDec/convertToDec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/palindromeVer/palindromeVer.iml" filepath="$PROJECT_DIR$/week4/palindromeVer/palindromeVer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/prodOdd/prodOdd.iml" filepath="$PROJECT_DIR$/week4/prodOdd/prodOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/sumEven/sumEven.iml" filepath="$PROJECT_DIR$/week4/sumEven/sumEven.iml" />
+    </modules>
+  </component>
+</project>

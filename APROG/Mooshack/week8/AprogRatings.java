@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class AprogRatings {
@@ -32,4 +33,9 @@ public class AprogRatings {
         System.out.printf("average=%.1f\n", average);
         System.out.println("failures=" + failureCount);
     }
+=======
+package PACKAGE_NAME;
+
+public class AprogRatings {
+>>>>>>> origin/APROG
 }
