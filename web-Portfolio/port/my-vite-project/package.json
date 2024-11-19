@@ -1,0 +1,22 @@
+{
+  "name": "port",
+  "version": "1.0.0",
+  "main": "/src/js/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafael Pinto Vieira",
+  "license": "ISC",
+  "description": "My web portfolio",
+  "dependencies": {
+    "@deno/vite-plugin": "^1.0.0",
+    "tailwind": "^4.0.0",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.15",
+    "vite": "^5.4.11"
+  }
+}
