@@ -1,0 +1,64 @@
+@startuml
+
+abstract class Contribuinte {
+    - nome: String
+    - morada: String
+    - rendimento: double
+    __
+    + Contribuinte(String, String, double)
+    + Contribuinte()
+    + getNome(): String
+    + getMorada(): String
+    + getRendimento(): double
+    + getTaxasRT(): double
+    + getTaxasOR(): double
+    + setNome(String): void
+    + setMorada(String): void
+    + setRendimento(double): void
+    + toString(): String
+    # setTaxasOR(double): void
+    # setTaxasRT(double): void
+}
+
+abstract class ContribuinteRendimento extends Contribuinte {
+    - taxasRT: double
+    - taxasOR: double
+    __
+    + ContribuinteRendimento(String, String, double)
+    + ContribuinteRendimento()
+    + getTaxasRT(): double
+    + getTaxasOR(): double
+    + calcularTaxas(): void
+    # setTaxasOR(double): void
+    # setTaxasRT(double): void
+}
+
+class ContribuinteReformado extends ContribuinteRendimento {
+    + ContribuinteReformado(String, String, double)
+    + ContribuinteReformado()
+    + calcularTaxas(): void
+}
+
+class ContribuinteTProp extends ContribuinteRendimento {
+    + ContribuinteTProp(String, String, double)
+    + ContribuinteTProp()
+    + calcularTaxas(): void
+}
+
+class ContribuinteTOutr extends ContribuinteRendimento {
+    + ContribuinteTOutr(String, String, double)
+    + ContribuinteTOutr()
+    + calcularTaxas(): void
+}
+
+class ContribuinteDesempregado extends Contribuinte {
+    + ContribuinteDesempregado(String, String, double)
+    + ContribuinteDesempregado()
+    + getTaxasRT(): double
+    + getTaxasOR(): double
+    + calcularTaxas(): void
+    + setTaxasORDesempregados(double): void
+}
+
+
+@enduml
