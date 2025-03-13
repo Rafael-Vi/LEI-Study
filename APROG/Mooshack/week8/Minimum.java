@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/APROG
 import java.util.Scanner;
 public class Minimum {
     public static int numberCount = 0;
@@ -39,4 +43,13 @@ public class Minimum {
         }
     }
 }
+<<<<<<< HEAD
 
+=======
+=======
+package PACKAGE_NAME;
+
+public class Minimum {
+}
+>>>>>>> origin/APROG
+>>>>>>> origin/APROG

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 public class AscendingSeq{
 	public static void main(String[] args){
@@ -23,3 +24,16 @@ public class AscendingSeq{
 		return true;
 	}
 }
+=======
+<<<<<<< HEAD
+public class AscendingSeq {
+    public static void main(String[] args) {
+
+    }
+=======
+package PACKAGE_NAME;
+
+public class AscendingSeq {
+>>>>>>> origin/APROG
+}
+>>>>>>> origin/APROG
